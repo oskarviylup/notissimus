@@ -1,0 +1,6 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=24469386_002D7390_002D454b_002Dbc9f_002D48927cd72055/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="ExecuteAsync_ShouldCallRepositoryWithCorrectData" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::7207534A-96BB-45AB-8316-CDACC7125F6E::net8.0::Tests.Application.Tests.SaveMouseTrackUseCaseTests.ExecuteAsync_ShouldCallRepositoryWithCorrectData&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
